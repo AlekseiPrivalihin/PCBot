@@ -1,0 +1,2 @@
+# PCBot
+basic chess bot
